@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e44f32d3.css",
-    "main.js": "/static/js/main.b857460d.js",
+    "main.js": "/static/js/main.58224dab.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/heroda.jpg": "/static/media/heroda.233963b5437a42ec37b2.jpg",
     "static/media/bibisha.png": "/static/media/bibisha.15a24d164f7205c2bb45.png",
@@ -32,11 +32,11 @@
     "static/media/logo.png": "/static/media/logo.b16d71639fc5ff946f04.png",
     "index.html": "/index.html",
     "main.e44f32d3.css.map": "/static/css/main.e44f32d3.css.map",
-    "main.b857460d.js.map": "/static/js/main.b857460d.js.map",
+    "main.58224dab.js.map": "/static/js/main.58224dab.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e44f32d3.css",
-    "static/js/main.b857460d.js"
+    "static/js/main.58224dab.js"
   ]
 }
